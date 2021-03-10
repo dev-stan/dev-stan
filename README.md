@@ -1,4 +1,4 @@
-# Something about me
+# About me
 
 - I'm currently trying to master the Java and C languages.
 - I enjoy to Windsurf in my free time, it's also my job!
