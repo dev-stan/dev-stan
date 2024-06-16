@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stan
 - 👀 I’m interested in full-stack development, especially RoR
 - 💻 I know Ruby, JavaScript, Python, HTML, and CSS
-- 🌱 I’m currently learning Web development at @lewagon
+- 🌱 I'm an alumni of LeWagon's Web Development 
 - 📫 Reach out to me via `stanzal2004@gmail.com`
