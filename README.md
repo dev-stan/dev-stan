@@ -1,5 +1,5 @@
 
-## Hi there, I'm Stan🐧
+## Hey there, I'm Stan🐧
 
 - 👀 I’m interested in full-stack development, with a particular passion for Ruby on Rails.
 - 💻 I have experience with Ruby, JavaScript, Python, SQL, HTML, and CSS.
