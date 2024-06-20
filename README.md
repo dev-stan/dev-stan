@@ -7,6 +7,6 @@
 
 📫 Feel free to reach out to me at `stanzal2004@gmail.com`.
 
-***[Explore my portfolio here 🚀](https://stan-portfolio-92a21856d53c.herokuapp.com/)***
+***[Explore my portfolio here  🚀](https://stan-portfolio-92a21856d53c.herokuapp.com/)***
 
 
