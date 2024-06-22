@@ -5,7 +5,7 @@
 - 💻 I have experience with Ruby, JavaScript, Python, SQL, HTML, and CSS.
 - 🌱 I graduated from Le Wagon's Web Development bootcamp, refining my skills and gaining practical experience.
 
-📫 Feel free to reach out to me at `stanzal2004@gmail.com`.
+📫 Feel free to reach out to me at `stanzal2004@gmail.com`
 
 ***[Explore my portfolio here  🚀](https://stan-portfolio-92a21856d53c.herokuapp.com/)***
 
